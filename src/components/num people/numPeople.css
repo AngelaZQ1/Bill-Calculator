@@ -1,0 +1,18 @@
+.people-counter {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.people-counter button {
+    width: 50px;
+    height: 50px;
+    border: none;
+    background: none;
+    font-size: 30px;
+}
+
+.num-people-input {
+    height: 60px;
+    width: 100px;
+}

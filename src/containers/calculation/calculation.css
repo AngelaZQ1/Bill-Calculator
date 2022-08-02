@@ -1,0 +1,18 @@
+.calculation-component {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    height: 100vh;
+}
+
+.tip-container {
+    text-align: center;
+}
+
+.section-title {
+    margin-bottom: 10px;
+    font-weight: 400;
+    text-align: center;
+}

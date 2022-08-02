@@ -1,0 +1,38 @@
+.tip-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tip-selection {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 250px;
+    gap: 5px;
+}
+
+.tip-selection button {
+    width: 65px;
+    height: 35px;
+    border: 2px solid #F1F1F1;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.tip-percentage-input {
+    height: 35px;
+    width: 135px;
+    border: none;
+    border-radius: 5px;
+    background-color:#F6F6F6;
+    text-align: center;
+    font-size: 15px;
+}
+
+.tip-dollar-amt {
+    border: none;
+    border-radius: 5px;
+    background-color:#F6F6F6;
+    margin-top: 10px;;
+}
